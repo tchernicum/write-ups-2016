@@ -1,11 +1,15 @@
 # CTF write-ups 2016
 
+[![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg?maxAge=2592000)](https://gitter.im/ctfs/write-ups) [![Reddit](https://img.shields.io/badge/reddit-yes-blue.svg)](https://www.reddit.com/r/securityCTF) [![Twitter Follow](https://img.shields.io/twitter/follow/shields_io.svg?style=social&label=Follow&maxAge=2592000)](https://twitter.com/write_ups)
+
+![External Coverage](https://www.dropbox.com/s/wiinfaaxjkc65q9/external_coverage.svg?raw=1) ![Internal Coverage](https://www.dropbox.com/s/rpt5yzirl05k8ih/internal_coverage.svg?raw=1)
+
 There are some problems with [CTF](https://ctftime.org/ctf-wtf/) write-ups in general:
 
-* they’re scattered across the interwebs
-* they don’t usually include the original files needed to solve the challenge
-* some of them are incomplete or skip ‘obvious’ parts of the explanation, and are therefore not as helpful for newcomers
-* often they disappear when the owner forgets to renew their domain or shuts down their blog
+* They’re scattered across the interwebs
+* They don’t usually include the original files needed to solve the challenge
+* Some of them are incomplete or skip ‘obvious’ parts of the explanation, and are therefore not as helpful for newcomers
+* Often they disappear when the owner forgets to renew their domain or shuts down their blog
 
 This repository aims to solve those problems.
 
@@ -21,3 +25,4 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md).
 * [Write-ups for CTFs that occurred in 2014](https://github.com/ctfs/write-ups-2014)
 * [Write-ups for CTFs that occurred in 2015](https://github.com/ctfs/write-ups-2015)
 * [Write-ups for CTFs that occurred in 2016](https://github.com/ctfs/write-ups-2016) (this repository)
+* [Write-ups for CTFs that occurred in 2017](https://github.com/ctfs/write-ups-2017)

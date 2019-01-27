@@ -16,4 +16,5 @@
 
 ## Other write-ups and resources
 
-* http://rawsec.ml/en/writeups-forensic-busybee/
+* [RawSec](https://rawsec.ml/en/writeups-forensic-busybee/
+* https://codemaxx.github.io/writeups/backdoorctf16/4busybee/

@@ -3,6 +3,7 @@
 **Category:** Misc
 **Author:** awe
 **Difficulty:** Medium
+**Solves:** 8
 **Description:**
 
 > Survive the robot uprising and steal their secret flag!
@@ -15,4 +16,4 @@
 ## Other write-ups and resources
 
 * <https://github.com/hexpresso/WU-2016/tree/master/insomnihack-ctf-2016/misc/Robots>
-* <https://github.com/p4-team/ctf/tree/master/2016-03-18-insomnihack-final/misc_robots>
+* [P4 Team](https://github.com/p4-team/ctf/tree/master/2016-03-18-insomnihack-final/misc_robots)

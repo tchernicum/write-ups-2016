@@ -13,6 +13,6 @@ Check this out!
 
 ## Other write-ups and resources
 
-* https://kimiyuki.net/blog/2016/07/23/abctf-2016/
-* http://blog.ankursundara.com/abctf/
-* https://ctftime.org/writeup/3621
+* [Kimiyuki Onaka](https://kimiyuki.net/blog/2016/07/23/abctf-2016/)
+* [ATX 2600](https://ctftime.org/writeup/3621)
+* [P_TE](https://p-te.fr/2016/07/23/abctf-sexy-rsa/)

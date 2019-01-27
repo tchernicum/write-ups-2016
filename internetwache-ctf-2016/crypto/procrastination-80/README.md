@@ -6,11 +6,11 @@
 **Description:**
 
 > Description: Watching videos is fun! Hint: Stegano skills required.
-> 
-> 
+>
+>
 > Attachment: [crypto80.zip](./crypto80.zip)
-> 
-> 
+>
+>
 > Service: <https://procrastination.ctf.internetwache.org>
 
 Sources: <https://github.com/internetwache/Internetwache-CTF-2016/tree/master/tasks/crypto80/code/website>
@@ -49,9 +49,8 @@ So the flag was `IW{DR0N3S_W1TH_PH0N3S}`.
 ## Other write-ups and resources
 
 * <https://www.xil.se/post/internetwache-2016-crypto-80-arturo182/>
-* <https://0x90r00t.com/2016/02/22/internetwache-ctf-2016-crypto-80-procrastination-write-up/>
+* [0x90r00t](https://0x90r00t.com/2016/02/22/internetwache-ctf-2016-crypto-80-procrastination-write-up/)
 * <http://losfuzzys.github.io/writeup/2016/02/22/iwctf2016-procrastination/>
 * <https://github.com/WesternCyber/CTF-WriteUp/blob/master/2016/Internetwache/Crypto/Crypto80.md>
 * <http://sexyplatypussies.com/writeups/InternetwacheCTF2016/crypto80.txt>
 * <https://blog.amishsecurity.com/-crypto80-procrastination/>
-* <https://www.youtube.com/watch?v=mzueu4qoPms>

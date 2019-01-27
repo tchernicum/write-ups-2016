@@ -1,29 +1,28 @@
 # Hackcon 2016 write-ups
 
 * <http://hackcon.in/>
-* [scoreboard](scoreboard)
+* [scoreboard](scoreboard.txt)
 
 ## Completed write-ups
 
-* none yet
+* [pwn/easiest-pwn-not-250](pwn/easiest-pwn-not-250)
 
 ## External write-ups only
 
-* [ppc/army-of-binaries](ppc/army-of-binaries)
+* [reversing/you-cant-see-me-150](reversing/you-cant-see-me-150)
+* [reversing/started-from-the-bottom-250](reversing/started-from-the-bottom-250)
+* [reversing/angry-reverser-200](reversing/angry-reverser-200)
+* [ppc/army-of-binaries-200](ppc/army-of-binaries-200)
+* [pwn/32-shades-of-binary-500](pwn/32-shades-of-binary-500)
 
 ## Missing write-ups
 
-* [crypto/the-hardware-club](crypto/the-hardware-club)
-* [crypto/help-a-n00b-pliz](crypto/help-a-n00b-pliz)
-* [forensic/in-rainbows](forensic/in-rainbows)
-* [forensic/note-to-self](forensic/note-to-self)
-* [misc/interesting-backdoor](misc/interesting-backdoor)
-* [reversing/angry-reverser](reversing/angry-reverser)
-* [reversing/furtive-jack](reversing/furtive-jack)
-* [reversing/you-cant-see-me](reversing/you-cant-see-me)
-* [reversing/started-from-the-bottom](reversing/started-from-the-bottom)
-* [pwn/easiest-pwn-not](pwn/easiest-pwn-not)
-* [pwn/32-shades-of-binary](pwn/32-shades-of-binary)
-* [web/code-pasty](web/code-pasty)
-* [web/web-chat](web/web-chat)
-* [web/hack-night-101](web/hack-night-101)
+* [reversing/furtive-jack-200](reversing/furtive-jack-200)
+* [forensic/in-rainbows-150](forensic/in-rainbows-150)
+* [forensic/note-to-self-250](forensic/note-to-self-250)
+* [misc/interesting-backdoor-150](misc/interesting-backdoor-150)
+* [crypto/help-a-n00b-pliz-200](crypto/help-a-n00b-pliz-200)
+* [crypto/the-hardware-club-300](crypto/the-hardware-club-300)
+* [web/web-chat-250](web/web-chat-250)
+* [web/hack-night-101-150](web/hack-night-101-150)
+* [web/code-pasty-150](web/code-pasty-150)

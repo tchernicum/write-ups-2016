@@ -4,7 +4,12 @@
 
 ## Repo-local write-ups
 
-* none
+* [misc/r-u-insane-5](misc/r-u-insane-5)
+* [crypto/cipher-font-50](crypto/cipher-font-50)
+* [crypto/znzarmt-mvd-hproo-10](crypto/znzarmt-mvd-hproo-10)
+* [crypto/one-time-subtraction-20](crypto/one-time-subtraction-20)
+* [crypto/financial-transaction-60](crypto/financial-transaction-60)
+* [web/super-questionable-luggage-service-30](web/super-questionable-luggage-service-30)
 
 ## External write-ups only
 
@@ -15,16 +20,11 @@
 * [pwn/httc-165](pwn/httc-165)
 * [ppc/guess-120](ppc/guess-120)
 * [ppc/a-hundred-captchas-60](ppc/a-hundred-captchas-60)
-* [misc/r-u-insane-5](misc/r-u-insane-5)
 * [misc/interesting-telegrams-100](misc/interesting-telegrams-100)
 * [misc/earphones-155](misc/earphones-155)
 * [misc/gravity-mud-90](misc/gravity-mud-90)
-* [crypto/financial-transaction-60](crypto/financial-transaction-60)
-* [crypto/rsa2-90](crypto/rsa2-90)
-* [crypto/cipher-font-50](crypto/cipher-font-50)
 * [crypto/rsa1-60](crypto/rsa1-60)
 * [crypto/curvature-200](crypto/curvature-200)
-* [crypto/one-time-subtraction-20](crypto/one-time-subtraction-20)
 * [forensics/corruption-130](forensics/corruption-130)
 * [forensics/may-1-2600-100](forensics/may-1-2600-100)
 * [forensics/basic-images-65](forensics/basic-images-65)
@@ -36,7 +36,6 @@
 * [forensics/roverctl-100](forensics/roverctl-100)
 * [web/java-sandbox-100](web/java-sandbox-100)
 * [web/use-the-force-80](web/use-the-force-80)
-* [web/super-questionable-luggage-service-30](web/super-questionable-luggage-service-30)
 * [web/sketchy-airlines-100](web/sketchy-airlines-100)
 
 
@@ -44,6 +43,6 @@
 
 * [misc/contingency-120](misc/contingency-120)
 * [misc/flag-seeker-90](misc/flag-seeker-90)
+* [crypto/rsa2-90](crypto/rsa2-90)
 * [misc/time-travel-90](misc/time-travel-90)
-* [crypto/znzarmt-mvd-hproo-10](crypto/znzarmt-mvd-hproo-10)
 * [web/luvmarkdown-200](web/luvmarkdown-200)

@@ -13,4 +13,5 @@ You know the deal. Find a flag in this this file?
 
 ## Other write-ups and resources
 
-* https://kimiyuki.net/blog/2016/07/23/abctf-2016/
+* [Kimiyuki Onaka](https://kimiyuki.net/blog/2016/07/23/abctf-2016/)
+* [OMECA](https://github.com/nbrisset/CTF/blob/master/abctf-2016/challenges/best-ganondorf-50)
